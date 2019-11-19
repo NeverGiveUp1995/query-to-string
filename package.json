@@ -1,6 +1,6 @@
 {
   "name": "query-to-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个将js对象转换为query字符串的工具",
   "main": "index.js",
   "scripts": {
